@@ -1,1 +1,1 @@
-
+Site menu does not close after pressing the cross/black background.
